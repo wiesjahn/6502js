@@ -1,0 +1,25 @@
+{
+  "name": "6502js",
+  "version": "0.0.1",
+  "description": "An Emulation of the MOS 6502",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wiesjahn/6502js.git"
+  },
+  "keywords": [
+    "emulation",
+    "education",
+    "for",
+    "funsies"
+  ],
+  "author": "Nick Wiesjahn",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wiesjahn/6502js/issues"
+  },
+  "homepage": "https://github.com/wiesjahn/6502js#readme"
+}
